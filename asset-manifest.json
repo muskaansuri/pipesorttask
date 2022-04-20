@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pipesorttask/static/css/main.69a4228b.css",
+    "main.js": "/pipesorttask/static/js/main.e4ddf48b.js",
+    "index.html": "/pipesorttask/index.html",
+    "main.69a4228b.css.map": "/pipesorttask/static/css/main.69a4228b.css.map",
+    "main.e4ddf48b.js.map": "/pipesorttask/static/js/main.e4ddf48b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a4228b.css",
+    "static/js/main.e4ddf48b.js"
+  ]
+}

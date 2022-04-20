@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.69a4228b.css","mappings":"AAAC,MACI,SACJ,CAEA,SACI,eACJ","sources":["App.css"],"sourcesContent":[" .main{ \r\n     width: 40%;\r\n } \r\n\r\n .main h5{ \r\n     min-width: 300px;\r\n }"],"names":[],"sourceRoot":""}
